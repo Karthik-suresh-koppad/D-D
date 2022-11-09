@@ -17,3 +17,50 @@ body{
 .first{
     background-color: success;
 }
+#features{
+    padding: 0;
+    padding-top: 50px;
+}
+#title{
+    margin: 0%;
+}
+.easy{
+    text-align: center;
+    padding: 30px;
+    
+}
+.journey{
+    text-align: center;
+    padding: 30px;
+}
+.work{
+    text-align: center;
+    padding: 30px;
+}
+h3{
+    font-style: "montserrat bold";
+}
+.icon{
+    color: rgb(94, 166, 94);
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: green;
+}
+#testimonials{
+    padding: 7% 15%;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.sea{
+    width: 100%;
+}
+h2{
+   text-align: center;
+}
+.carousel-item{
+    height: 500px;
+}
+.inside{
+    width: 100%;
+}
